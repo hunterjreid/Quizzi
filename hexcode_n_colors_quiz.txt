@@ -1,0 +1,2 @@
+Hex codes 'n' colors.,hunts at 10:04,#111111,#BDBDBD,#7B7B7B,#232323/What is the Hexadecimal representation of White?,#ECECEC,#BBBBBB,#FEFEFE,#FFFFFF/How long is a Hex Color? (in digits),8,4-8,6-8,6/What color is the sky?,Red,Green,Yellowish-gold,Blue/Which format is NOT 
+an image format?,BMP,PNG,JPEG 2000,MP4
